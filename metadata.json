@@ -1,0 +1,5 @@
+{
+  "name": "Display",
+  "description": "A web-based information display for SMA Muhammadiyah 2 Sidoarjo, showing daily schedules, prayer times, environmental data, and a slideshow of school activities and information.",
+  "requestFramePermissions": []
+}
