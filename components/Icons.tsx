@@ -1,7 +1,7 @@
 import React from 'react';
 
 export const SmamdaLogo: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="currentColor" {...props}>
+  <svg xmlns="https://freeimage.host/i/KZxvqWG" viewBox="0 0 100 100" fill="currentColor" {...props}>
     <circle cx="50" cy="50" r="45" fill="#0ea5e9" />
     <path d="M30 70 L50 30 L70 70 Z" fill="white" stroke="#0891b2" strokeWidth="3" />
     <path d="M40 70 L50 50 L60 70 Z" fill="#facc15" />
